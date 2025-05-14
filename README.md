@@ -9,7 +9,7 @@ All files are saved in the JLD2 format.
 Fig1a.jld2:<br />
     -T: with temperature data in units of $T/J_0$ <br />
     -J: with exchange parameter $J_1$ in units of $J_1/J_0$ <br />
-    -My: with octupolar order parameter $\langle M_y \rangle$ <br />
+    -My: with octupolar order parameter $\langle \tau_y \rangle$ <br />
     -Mafm: with antiferro-quadrupolar order parameter at wavevector $(\pi,\pi,0)$ and symmetrically equivalent, note Fig.1a is produced by taking absolute value of My and subtracting Mafm <br />
 
 Fig1b.jld2:<br />
@@ -23,6 +23,10 @@ Fig1c.jld2:<br />
     -Qz: with time-series data for phonon coordinate $Q_z$ at $T=5.2$ <br />
 
 Fig1d.jld2:<br />
+    -T_Qz: with an array of temperature points for the $Q_z$ cross-amplitudes <br />
+    -T_my: with an array of temperature points for the order parameter data <br />
+    -My: with the data for the order parameter $\langle \tau_y\rangle$
+    -crossAmp: with the data for the maximum $Q_z$ cross-amplitudes <br />
 
 ### Files for Figure 2:
 Fig2a.jld2:<br />
