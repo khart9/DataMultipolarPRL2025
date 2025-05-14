@@ -21,7 +21,7 @@ Fig2b.jld2:<br />
     - Sy1: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
     - Sy2: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $\pi/4$, J1/J0 = 1.3 and T = 3.0<br />
     - Sy3: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = 0, J1/J0 = 1.3 and T = 3.0<br />
-    - Sy4: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = -$\pi/4$, J1/J0 = 1.3 and T = 3.0<br />
-    - Sy5: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = -$\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
+    - Sy4: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $-\pi/4$, J1/J0 = 1.3 and T = 3.0<br />
+    - Sy5: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $-\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
 
 ### Files for Figure 3:
