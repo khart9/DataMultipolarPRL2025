@@ -7,10 +7,10 @@ All files are saved in the JLD2 format.
 
 ### Files for Figure 1:
 Fig1a.jld2:<br />
-    -T: with temperature data in units of $T/J_0$
-    -J: with exchange parameter $J_1$ in units of $J_1/J_0$
-    -My: with octupolar order parameter $\langle M_y \rangle$
-    -Mafm: with antiferro-quadrupolar order parameter at wavevector $(\pi,\pi,0)$ and symmetrically equivalent, note Fig.1a is produced by taking absolute value of My and subtracting Mafm
+    -T: with temperature data in units of $T/J_0$ <br />
+    -J: with exchange parameter $J_1$ in units of $J_1/J_0$ <br />
+    -My: with octupolar order parameter $\langle M_y \rangle$ <br />
+    -Mafm: with antiferro-quadrupolar order parameter at wavevector $(\pi,\pi,0)$ and symmetrically equivalent, note Fig.1a is produced by taking absolute value of My and subtracting Mafm <br />
 
 Fig1b.jld2:<br />
 
