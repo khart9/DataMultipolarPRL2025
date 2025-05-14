@@ -49,7 +49,7 @@ Fig2b.jld2:<br />
 Fig3.jld2:<br />
     -time: with time data in units of $\hbar/J_0$ for $\langle \tau_y$<br />
     -My: with data for the octupolar order parameter $\langle \tau_y$<br />
-    -slice1: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y>0$ or -1 for $\langle \tau_y<0$ at time $t=0 \hbar/J_0$
-    -slice2: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y>0$ or -1 for $\langle \tau_y<0$ at time $t=1.5 \hbar/J_0$
-    -slice3: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y>0$ or -1 for $\langle \tau_y<0$ at time $t=4.0 \hbar/J_0$
+    -slice1: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y>0$ or -1 for $\langle \tau_y<0$ at time $t=0 \hbar/J_0$<br />
+    -slice2: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y>0$ or -1 for $\langle \tau_y<0$ at time $t=1.5 \hbar/J_0$<br />
+    -slice3: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y>0$ or -1 for $\langle \tau_y<0$ at time $t=4.0 \hbar/J_0$<br />
 
