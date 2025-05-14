@@ -12,8 +12,8 @@ All files are formatted as follows:
     - contains fields for the averaged spin components in totalSX, totalSY, totalSZ
     - contains fields for the averaged phonon coordinates in totalPHX, totalPHZ
     
-averagedPseudoPosField--DriveQxQzPulseDatA=1.5Damp=1.0Phi=0.5pi--DMFTK1=1.3T=3.0.h5
-\\    - data for the spin and phonon dynamics for a pulsed drive with A=1.5 in the FO phase, averaged only over configurations with overall positive order parameter
+averagedPseudoPosField--DriveQxQzPulseDatA=1.5Damp=1.0Phi=0.5pi--DMFTK1=1.3T=3.0.h5<br />
+    - data for the spin and phonon dynamics for a pulsed drive with A=1.5 in the FO phase, averaged only over configurations with overall positive order parameter
 averagedPseudoPosField--DriveQxQzPulseDatA=1.75Damp=1.0Phi=0.5pi--DMFTK1=1.3T=3.0.h5
     - data for the spin and phonon dynamics for a pulsed drive with A=1.75 in the FO phase, averaged only over configurations with overall positive order parameter
 averagedPseudoPosField--DriveQxQzPulseDatA=2.0Damp=1.0Phi=0.5pi--DMFTK1=1.3T=3.0.h5
