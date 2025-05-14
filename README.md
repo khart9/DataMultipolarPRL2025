@@ -6,6 +6,13 @@ by Kathleen Hart, Ruairidh Sutcliffe, Gil Refael and Arun Paramekanti
 All files are saved in the JLD2 format.
 
 ### Files for Figure 1:
+Fig1a.jld2:<br />
+
+Fig1b.jld2:<br />
+
+Fig1c.jld2:<br />
+
+Fig1d.jld2:<br />
 
 ### Files for Figure 2:
 Fig2a.jld2:<br />
@@ -25,3 +32,4 @@ Fig2b.jld2:<br />
     - Sy5: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $-\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
 
 ### Files for Figure 3:
+
