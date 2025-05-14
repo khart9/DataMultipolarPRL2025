@@ -13,8 +13,14 @@ Fig1a.jld2:<br />
     -Mafm: with antiferro-quadrupolar order parameter at wavevector $(\pi,\pi,0)$ and symmetrically equivalent, note Fig.1a is produced by taking absolute value of My and subtracting Mafm <br />
 
 Fig1b.jld2:<br />
+    -T: with time data in units of $\hbar/J_0$<br />
+    -Qx: with time-series data for phonon coordinate $Q_x$ at $T=0.1$ <br />
+    -Qz: with time-series data for phonon coordinate $Q_z$ at $T=0.1$ <br />
 
 Fig1c.jld2:<br />
+    -T: with time data in units of $\hbar/J_0$<br />
+    -Qx: with time-series data for phonon coordinate $Q_x$ at $T=5.2$ <br />
+    -Qz: with time-series data for phonon coordinate $Q_z$ at $T=5.2$ <br />
 
 Fig1d.jld2:<br />
 
