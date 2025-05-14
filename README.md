@@ -25,7 +25,7 @@ Fig1c.jld2:<br />
 Fig1d.jld2:<br />
     -T_Qz: with an array of temperature points for the $Q_z$ cross-amplitudes <br />
     -T_my: with an array of temperature points for the order parameter data <br />
-    -My: with the data for the order parameter $\langle \tau_y\rangle$
+    -My: with the data for the order parameter $\langle \tau_y\rangle$ <br />
     -crossAmp: with the data for the maximum $Q_z$ cross-amplitudes <br />
 
 ### Files for Figure 2:
@@ -46,4 +46,10 @@ Fig2b.jld2:<br />
     - Sy5: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $-\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
 
 ### Files for Figure 3:
+Fig3.jld2:<br />
+    -time: with time data in units of $\hbar/J_0$ for $\langle \tau_y$<br />
+    -My: with data for the octupolar order parameter $\langle \tau_y$<br />
+    -slice1: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y>0$ or -1 for $\langle \tau_y<0$ at time $t=0 \hbar/J_0$
+    -slice2: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y>0$ or -1 for $\langle \tau_y<0$ at time $t=1.5 \hbar/J_0$
+    -slice3: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y>0$ or -1 for $\langle \tau_y<0$ at time $t=4.0 \hbar/J_0$
 
