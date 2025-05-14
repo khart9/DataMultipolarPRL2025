@@ -53,3 +53,21 @@ Fig3.jld2:<br />
     -slice2: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y\rangle>0$ or -1 for $\langle \tau_y\rangle<0$ at time $t=1.5 \hbar/J_0$<br />
     -slice3: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y\rangle>0$ or -1 for $\langle \tau_y\rangle<0$ at time $t=4.0 \hbar/J_0$<br />
 
+### Files for Figure S6:
+FigS6a.jld2:<br />
+    - Data for spin dynamics for a continuous wave drive in the FO phase with weak damping ($\eta = 0.1$), averaged only over configurations with overall positive order parameter:<br />
+    - Parameters: $A=0.2$, $\phi = \pi/2$, $J_1/J_0 = 1.3$, $T = 3.0$
+    - t: time data in units of $\hbar/J_0$<br />
+    - Sx: pseudospin component $\tau_x$
+    - Sy: pseudospin component $\tau_y$
+    - Sz: pseudospin component $\tau_z$
+
+FigS6b.jld2:<br />
+    - Data for $\tau_y$ configuration dynamics for a continuous wave drive in the FO phase with weak damping ($\eta = 0.1$), corresponding to a single slice of a configuration used to produce Fig.S6a (all spins are represented as either up (+1) or down (-1). A value of zero indicates a site where no spin is present):<br />
+    - Parameters: $A=0.2$, $\phi = \pi/2$, $J_1/J_0 = 1.3$, $T = 3.0$
+    - slice1: configuration of $\tau_y$ at $t = 22.5\hbar/J_0$
+    - slice2: configuration of $\tau_y$ at $t = 23.25\hbar/J_0$
+    - slice3: configuration of $\tau_y$ at $t = 24.0\hbar/J_0$
+    - slice4: configuration of $\tau_y$ at $t = 24.75\hbar/J_0$
+
+
