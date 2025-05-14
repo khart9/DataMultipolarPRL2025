@@ -2,7 +2,7 @@
 Data for the manuscript "Phonon-driven multipolar dynamics in a spin-orbit coupled Mott insulator"
 by Kathleen Hart, Ruairidh Sutcliffe, Gil Refael and Arun Paramekanti
 
-File details:
+## File details:
 All files are saved in the JLD2 format.
 
 Files for Figure 1:
