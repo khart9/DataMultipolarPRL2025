@@ -36,9 +36,9 @@ Fig1d.jld2:<br />
 Fig2a.jld2:<br />
     - Data for the spin and phonon dynamics for a pulsed drive in the FO phase, averaged only over configurations with overall positive order parameter:<br />
     - t: time data in units of $\hbar/J_0$<br />
-    - Sy1: $\tau_y$ with parameters A = 1.5, $\eta$ = 1.0, $\phi$ = $\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
-    - Sy2: $\tau_y$ with parameters A = 1.75, $\eta$ = 1.0, $\phi$ = $\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
-    - Sy3: $\tau_y$ with parameters A = 2.0, $\eta$ = 1.0, $\phi$ = $\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
+    - Sy1: $\langle\tau_y\rangle$ with parameters A = 1.5, $\eta$ = 1.0, $\phi$ = $\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
+    - Sy2: $\langle\tau_y\rangle$ with parameters A = 1.75, $\eta$ = 1.0, $\phi$ = $\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
+    - Sy3: $\langle\tau_y\rangle$ with parameters A = 2.0, $\eta$ = 1.0, $\phi$ = $\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
 
 Fig2b.jld2:<br />
     - Data for the spin and phonon dynamics for a pulsed drive with A=0.5 in the PM phase:<br />
