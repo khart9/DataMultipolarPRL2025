@@ -53,6 +53,22 @@ Fig3.jld2:<br />
     -slice2: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y\rangle>0$ or -1 for $\langle \tau_y\rangle<0$ at time $t=1.5 \hbar/J_0$<br />
     -slice3: with a two-dimensional array representing the spins as either +1 for $\langle \tau_y\rangle>0$ or -1 for $\langle \tau_y\rangle<0$ at time $t=4.0 \hbar/J_0$<br />
 
+### Files for Figure S2:
+FigS2.jld2:<br />
+    -time: time data in units of $\hbar/J_0$ for $t=0 \hbar/J_0$ through $t=100 \hbar/J_0$ of which only the first $t=5 \hbar/J_0$ is shown in the manuscript<br />
+    -Sx: time series of $\langle \tau_x \rangle$ for $t=0 \hbar/J_0$ through $t=100 \hbar/J_0$<br />
+    -Sz: time series of $\langle \tau_z \rangle$ for $t=0 \hbar/J_0$ through $t=100 \hbar/J_0$<br />
+
+### Files for Figure S5:
+FigS5.jld2:<br />
+     - t: time data in units of $\hbar/J_0$<br />
+     -QxLow: time series of the $Q_x$ phonon during a pump-probe simulation for a damping strength $2\pi \eta/\omega=0.007$<br />
+     -QzLow: time series of the $Q_z$ phonon during a pump-probe simulation for a damping strength $2\pi \eta/\omega=0.007$<br />
+     -QxMid: time series of the $Q_x$ phonon during a pump-probe simulation for a damping strength $2\pi \eta/\omega=0.013$<br />
+     -QzMid: time series of the $Q_z$ phonon during a pump-probe simulation for a damping strength $2\pi \eta/\omega=0.013$<br />
+     -QxHigh: time series of the $Q_x$ phonon during a pump-probe simulation for a damping strength $2\pi \eta/\omega=0.035$<br />
+     -QzHigh: time series of the $Q_z$ phonon during a pump-probe simulation for a damping strength $2\pi \eta/\omega=0.035$<br />
+     
 ### Files for Figure S6:
 FigS6a.jld2:<br />
     - Data for spin dynamics for a continuous wave drive in the FO phase with weak damping ($\eta = 0.1$), averaged only over configurations with overall positive order parameter:<br />
