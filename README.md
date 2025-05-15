@@ -43,11 +43,11 @@ Fig2a.jld2:<br />
 Fig2b.jld2:<br />
     - Data for the spin and phonon dynamics for a pulsed drive with A=0.5 in the PM phase:<br />
     - t: time data in units of $\hbar/J_0$<br />
-    - Sy1: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
-    - Sy2: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $\pi/4$, J1/J0 = 1.3 and T = 3.0<br />
-    - Sy3: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = 0, J1/J0 = 1.3 and T = 3.0<br />
-    - Sy4: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $-\pi/4$, J1/J0 = 1.3 and T = 3.0<br />
-    - Sy5: $\tau_y$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $-\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
+    - Sy1: $\langle\tau_y\rangle$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
+    - Sy2: $\langle\tau_y\rangle$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $\pi/4$, J1/J0 = 1.3 and T = 3.0<br />
+    - Sy3: $\langle\tau_y\rangle$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = 0, J1/J0 = 1.3 and T = 3.0<br />
+    - Sy4: $\langle\tau_y\rangle$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $-\pi/4$, J1/J0 = 1.3 and T = 3.0<br />
+    - Sy5: $\langle\tau_y\rangle$ with parameters A = 0.5, $\eta$ = 1.0, $\phi$ = $-\pi/2$, J1/J0 = 1.3 and T = 3.0<br />
 
 ### Files for Figure 3:
 Fig3.jld2:<br />
@@ -81,9 +81,9 @@ FigS6a.jld2:<br />
     - Data for spin dynamics for a continuous wave drive in the FO phase with weak damping ($\eta = 0.1$), averaged only over configurations with overall positive order parameter:<br />
     - Parameters: $A=0.2$, $\phi = \pi/2$, $J_1/J_0 = 1.3$, $T = 3.0$<br />
     - t: time data in units of $\hbar/J_0$<br />
-    - Sx: pseudospin component $\tau_x$<br />
-    - Sy: pseudospin component $\tau_y$<br />
-    - Sz: pseudospin component $\tau_z$<br />
+    - Sx: pseudospin component $\langle \tau_x\rangle$<br />
+    - Sy: pseudospin component $\langle\tau_y\rangle$<br />
+    - Sz: pseudospin component $\langle\tau_z\rangle$<br />
 
 FigS6b.jld2:<br />
     - Data for $\tau_y$ configuration dynamics for a continuous wave drive in the FO phase with weak damping ($\eta = 0.1$), corresponding to a single slice of a configuration used to produce Fig.S6a (all spins are represented as either up (+1) or down (-1). A value of zero indicates a site where no spin is present):<br />
