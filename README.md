@@ -1,4 +1,4 @@
-# phononDrivenMultipolarDynamics--data
+# DataMultipolarPRL2025
 Data for the manuscript "Phonon-driven multipolar dynamics in a spin-orbit coupled Mott insulator"
 by Kathleen Hart, Ruairidh Sutcliffe, Gil Refael and Arun Paramekanti
 
